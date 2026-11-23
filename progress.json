@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:40:35.656Z",
+  "generated_at": "2026-11-23T09:46:22.883Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -150,6 +150,19 @@
       "last_pushed_at": "2026-11-23T09:40:34.968Z",
       "language": "python",
       "lines": 11
+    },
+    "lab:15": {
+      "kind": "lab",
+      "id": "15",
+      "title": "Dimensionality Reduction with Sklearn",
+      "difficulty": "easy",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/15",
+      "path": "labs/0015-dimensionality-reduction-with-sklearn",
+      "first_solved_at": "2026-11-23T09:46:21.559Z",
+      "last_pushed_at": "2026-11-23T09:46:21.559Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
