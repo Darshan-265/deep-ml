@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:00:07.075Z",
+  "generated_at": "2026-11-23T10:09:39.637Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -176,6 +176,17 @@
       "last_pushed_at": "2026-11-23T10:00:06.180Z",
       "language": "python",
       "lines": 8
+    },
+    "math:650": {
+      "kind": "math",
+      "id": "650",
+      "title": "What Each Loss Estimates: Mean, Median, Quantile and Frequency",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/650",
+      "path": "math/0650-what-each-loss-estimates-mean-median-quantile-and-frequency",
+      "first_solved_at": "2026-11-23T10:09:38.979Z",
+      "last_pushed_at": "2026-11-23T10:09:38.979Z"
     }
   }
 }
