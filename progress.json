@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:09:39.637Z",
+  "generated_at": "2026-11-24T11:05:37.213Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -187,6 +187,19 @@
       "path": "math/0650-what-each-loss-estimates-mean-median-quantile-and-frequency",
       "first_solved_at": "2026-11-23T10:09:38.979Z",
       "last_pushed_at": "2026-11-23T10:09:38.979Z"
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-11-24T11:05:36.350Z",
+      "last_pushed_at": "2026-11-24T11:05:36.350Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
